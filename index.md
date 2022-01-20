@@ -3,6 +3,4 @@
 
 
 
-```markdown
-本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。
-```
+本站点是使用 [GitHub Pages](/root/pages/page_one.md) 构建的。
