@@ -4,15 +4,8 @@
 
 
 ```markdown
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
