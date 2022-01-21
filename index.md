@@ -1,17 +1,17 @@
 ## 目录
 
 
-- [**Kali tools**](./level_two/kali_tools.md)
+- [**Kali tools**](./secondary/kali_tools.md)
   
-- [**Python**](./level_two/Python.md)
+- [**Python**](./secondary/Python.md)
   
 - [**中间件**]()
   
-- [**Java**](./level_two/java.md)
+- [**Java**](./secondary/java.md)
   
-- [**Sql**](./level_two/sql.md)
+- [**Sql**](./secondary/sql.md)
   
-- [**Linux**](./level_two/linux.md)
+- [**Linux**](./secondary/linux.md)
   
 - [**工具等**]()
 
