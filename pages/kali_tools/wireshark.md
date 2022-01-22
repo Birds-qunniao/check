@@ -8,7 +8,7 @@ _Wireshark 主要用于网络抓包及其分析，相关计算机网络信息请
  - 第一层Frame 为数据包信息
 ![image](../../images/Kalitools/2022-01-22-bluetooth.png 'wireshark')
  - 第二层为以太网包头信息，二层上层协议类型
-![image](../../images/Kalitools/2022-01-22-network.png 'wireshark')
+![image](../../images/Kalitools/2022-01-22.png 'wireshark')
  - 第三层为协议包头，及其信息,三层上层协议
  - 第四层为具体协议包头信息
 ```bash
