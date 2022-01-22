@@ -2,13 +2,13 @@
 
 _Wireshark 主要用于网络抓包及其分析_
 
+
 ![image](../../images/Kalitools/2022-01-21-wireshark.png 'wireshark')
 
 
 
 
 ```bash
-#Tips
-    文件转base64命令
+#Tip 文件转base64命令
     base64 文件路径 > base64_code_file
 ```
