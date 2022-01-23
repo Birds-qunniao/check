@@ -30,7 +30,6 @@ _Wireshark 主要用于网络抓包及其分析，相关计算机网络信息请
             #不解析ip域名读取文件
             tcpdump -n -r 文件.pcap
             tcpdump -n src host ip -r pcap文件
-             
         ```
         _高级筛选请 man tcpdump_
 ```bash
