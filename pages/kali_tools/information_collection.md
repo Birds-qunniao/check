@@ -70,4 +70,6 @@ _dig 增强型nslookup_
         dig google.com any @8.8.8.8
         # 反响解析 参数 -x
         dig +trace sina.com
+        #查看域名主机bing包版本信息
+        dig txt chaos VERSION.BING @ns1.sina.com.cn.
     ```
