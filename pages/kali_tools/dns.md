@@ -42,5 +42,8 @@ _同上但是更加暴力_
             os
             Hostname
             server
+        200 ok cisco
+        user:admin  pass:password
+        linux upnp avtech
     ```
  
