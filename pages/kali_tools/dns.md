@@ -46,4 +46,9 @@ _同上但是更加暴力_
         user:admin  pass:password
         linux upnp avtech
     ```
- 
+- theHarvester 搜索邮件主机
+- metagoofli 搜索文件
+ ```tip
+    #查看软件文件在哪里
+    dpkg -L 软件名称 
+ ```
